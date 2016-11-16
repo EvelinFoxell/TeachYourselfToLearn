@@ -4,49 +4,59 @@ body, html {
 	color: white;
 }
 
-#logo {
-	height: 100%;
-	display:inline-block;
-	margin: 0;
-}
-
 #headerWrapper {
-	height: 200px;
-	width:800px;
+	width: 800px;
 	position: relative;
+	margin: 0.5em auto 0 auto;
 }
 
 #contentWrapper {
-	width:800px;
+	width: 800px;
 	background-color: white;
+	margin: 0 auto;
 }
 
 #footerWrapper {
+	text-align: center;
+	width: 800px;
+	margin: 0 auto;
+}
 
+#logo {
+	width: 300px;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
 }
 
 #flapper {
-	display:inline-block;
-	position: relative;
-	width:50%;
+	display: inline-block;
+	position: absolute;
+	width: 500px;
 	margin: 0;
-	bottom:0;
-	float: right;
+	padding: 0;
+	bottom: 0;
+	right: 0;
 }
 
 .head {
-	bottom:0;
+	bottom: 0;
 	float: right;
 }
 
 .triangle {
 	border-bottom: 150px solid white;
-	border-left: 100px solid transparent;
+	border-left: 150px solid transparent;
 }
 
 .flap {
 	height: 150px;
 	background-color: white;
-	border-radius: 0 25px 0 0; 
-	width: 200px;
+	border-radius: 0 3em 0 0; 
+	width: 350px;
+}
+
+.content {
+	padding: 1em 3em;
+	margin:0;
 }
