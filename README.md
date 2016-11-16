@@ -18,6 +18,27 @@ Hoppas detta kan vara någon till nytta!
 _MVH_<br>
 _Evelin Foxell_
 
-## Browse the site
+## Surfa på sidan
 
-You can fin the site at this link: [http://evelinfoxell.github.io/TeachYourselfToLearn](http://evelinfoxell.github.io/TeachYourselfToLearn)
+Du kan nå sidan på denna länken: [http://evelinfoxell.github.io/TeachYourselfToLearn](http://evelinfoxell.github.io/TeachYourselfToLearn)
+
+---
+
+## Language
+
+As you can see in the above part, this site initially only supports Swedish.
+
+## Technologies
+
+### This site is using
+
+* Jekyll for the blog
+* Sass
+* Vanilla CSS
+* Angular 1
+* HTML5
+
+## Contribution
+
+If you find any factual errors, feel free to contact me, file an issue, or<br> 
+make a pull request to fix it.
